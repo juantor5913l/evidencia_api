@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643404454395",
+    "project_id": "desarrollomovilnativo-d7b54",
+    "storage_bucket": "desarrollomovilnativo-d7b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643404454395:android:1cde3766b21cdd7cad135e",
+        "android_client_info": {
+          "package_name": "co.edu.sena.app2687340sebastiantorres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643404454395-bnes63n54evcmdfjmtoarvgjdvn15eco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABdZD1icd8u_8IVyv0m_zvOWGKElsQnOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643404454395-bnes63n54evcmdfjmtoarvgjdvn15eco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
